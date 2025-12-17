@@ -65,7 +65,7 @@ enhance productivity, and deliver reliable solutions efficiently.
 
 
    <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amnraz&theme=tokyonight" alt="amnraz GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=@amnraz&theme=tokyonight" alt="Aman's GitHub Streak" />
 </p>
 
  <p align="center">
