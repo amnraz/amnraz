@@ -52,7 +52,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Kontukunal/Kontukunal/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kontukunal/Kontukunal/output/snake.svg" alt="Snake animation" />
 
 
 
@@ -60,9 +60,9 @@
   <img src="https://streak-stats.demolab.com/?user=Kontukunal&theme=tokyonight" alt="Aman's GitHub Streak" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kontukunal&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats" />
-</p> -->
+</p> 
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kontukunal&layout=compact&theme=tokyonight" alt="Top Languages" />
