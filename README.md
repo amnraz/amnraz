@@ -69,8 +69,13 @@ enhance productivity, and deliver reliable solutions efficiently.
 </p>
 
  <p align="center">
+//   <img src="https://streak-stats.demolab.com/?user=Kontukunal&theme=tokyonight" alt="Aman's GitHub Streak" />
+ </p>
+
+ <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=amnraz&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats" />
  </p>
+
 
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnraz&layout=compact&theme=tokyonight" alt="Top Languages" />
