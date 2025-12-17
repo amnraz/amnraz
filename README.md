@@ -76,7 +76,7 @@ enhance productivity, and deliver reliable solutions efficiently.
 
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kontukunal&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnraz&layout=compact&theme=tokyonight" alt="Top Languages" />
  </p>
 
 <h3 align="center">📫 Let’s Connect</h3>
