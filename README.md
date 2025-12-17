@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack JavaScript Engineer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%2B+Node.js+Engineer;Full-Stack+JavaScript+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
@@ -64,9 +64,8 @@ enhance productivity, and deliver reliable solutions efficiently.
  <img src="https://raw.githubusercontent.com/Kontukunal/Kontukunal/output/snake.svg" alt="Snake animation" />
 
 
-
-  <p align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=Kontukunal&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats" />
+   <p align="center">
+     <img src="https://streak-stats.demolab.com/?user=Kontukunal&theme=tokyonight" alt="Aman's GitHub Streak" />
     </p>
 
  <p align="center">
