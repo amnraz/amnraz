@@ -65,12 +65,10 @@ enhance productivity, and deliver reliable solutions efficiently.
 
 
    <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=@amnraz&theme=tokyonight" alt="Aman's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=amnraz&theme=tokyonight" alt="Aman's GitHub Streak" />
 </p>
 
- <p align="center">
-//   <img src="https://streak-stats.demolab.com/?user=Kontukunal&theme=tokyonight" alt="Aman's GitHub Streak" />
- </p>
+
 
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=amnraz&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats" />
@@ -78,7 +76,7 @@ enhance productivity, and deliver reliable solutions efficiently.
 
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnraz&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kontukunal&layout=compact&theme=tokyonight" alt="Top Languages" />
  </p>
 
 <h3 align="center">📫 Let’s Connect</h3>
