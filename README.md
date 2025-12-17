@@ -29,7 +29,7 @@ enhance productivity, and deliver reliable solutions efficiently.
 <strong>Frontend:</strong> React.js, Redux Toolkit, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS<br/>
 <strong>Backend:</strong> Node.js, Express.js, Firebase<br/>
 <strong>Database:</strong> MongoDB<br/>
-<strong>Tools & Platforms:</strong> Git, GitHub, Google Cloud, Figma
+<strong>Tools & Platforms:</strong> Git, GitHub, Google Cloud, figma
 </p>
 
 <div align="left">
@@ -60,27 +60,34 @@ enhance productivity, and deliver reliable solutions efficiently.
 
 <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+// <img src="https://raw.githubusercontent.com/Kontukunal/Kontukunal/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+// ###
+
+// <p align="center">
+//   <img src="https://streak-stats.demolab.com/?user=Kontukunal&theme=tokyonight" alt="Aman's GitHub Streak" />
+// </p>
+
+// <p align="center">
+//   <img src="https://github-readme-stats.vercel.app/api?username=Kontukunal&show_icons=true&theme=tokyonight" alt="Aman's GitHub Stats" />
+// </p>
+
+// <p align="center">
+//    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kontukunal&layout=compact&theme=tokyonight" alt="Top Languages" />
+// </p>
 
 
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Contribution Snake" />
+
+<!-- <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Contribution Snake" /> -->
 
 
 <h3 align="center">📫 Let’s Connect</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aman-kumar-5bb53a392" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aman-kumar-5bb53a392" target="_blank">LinkedIn</a> •
   <a href="https://x.com/amnraz985" target="_blank">Twitter</a> •
-  <a href="1209amankumar@gmail.com">Email</a>
+  <a href="mailto:1209amankumar@gmail.com">Email</a>
 </p>
+
