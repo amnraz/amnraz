@@ -29,7 +29,7 @@ enhance productivity, and deliver reliable solutions efficiently.
 <strong>Frontend:</strong> React.js, Redux Toolkit, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS<br/>
 <strong>Backend:</strong> Node.js, Express.js, Firebase<br/>
 <strong>Database:</strong> MongoDB<br/>
-<strong>Tools & Platforms:</strong> Git, GitHub, Google Cloud, figma
+<strong>Tools & Platforms:</strong> VS-Code, Git, GitHub, Postman 
 </p>
 
 <div align="left">
